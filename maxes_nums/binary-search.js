@@ -1,4 +1,4 @@
-// By Jorge
+// Winner
 
 const result = [];
 

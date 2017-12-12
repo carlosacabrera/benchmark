@@ -1,5 +1,3 @@
-// By Carlos Cabrera
-
 module.exports = (maxes, nums) => {
 
   return maxes.map(max => {
